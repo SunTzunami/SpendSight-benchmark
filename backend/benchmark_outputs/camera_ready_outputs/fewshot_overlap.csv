@@ -1,0 +1,116 @@
+TC_ID,Tool,Best_Lexical_Sim,Best_Match_Query,Slot_Match,Date_Pattern_Match
+TS01,plot_time_series,0.688,Show me my spending trend for the last 3 months,True,True
+TS02,plot_time_series,0.738,plot spending from june 2023 to dec 2025,True,True
+TS03,plot_time_series,0.766,Plot spending on snacks from oct 2024 to dec 2025,True,True
+TS04,plot_time_series,0.630,Show me food spending from 2023 to 2025,True,True
+TS05,plot_time_series,0.761,plot spend on cafes for past 2.5 yrs,True,True
+TS06,plot_time_series,0.757,plot spend on cafes for past 2.5 yrs,True,True
+TS07,plot_time_series,0.651,Show spending on combinis for past year,True,True
+TS08,plot_time_series,0.630,Plot spending on snacks from oct 2024 to dec 2025,True,True
+TS09,plot_time_series,0.627,Show spending on combinis for past year,True,True
+TS10,plot_time_series,0.757,plot spend on cafes for past 2.5 yrs,True,True
+TS11,plot_time_series,0.673,How has my transportation spending changed over time?,True,True
+TS12,plot_time_series,0.667,Plot spending on snacks from oct 2024 to dec 2025,True,True
+TS13,plot_time_series,0.653,Show me my spending trend for the last 3 months,True,True
+TS14,plot_time_series,1.000,show electronics spending since 2023,True,True
+TS15,plot_time_series,0.696,Plot spending on snacks from oct 2024 to dec 2025,True,True
+TS16,plot_time_series,0.713,Show me food spending from 2023 to 2025,True,True
+TS17,plot_time_series,0.747,plot spend on cafes for past 2.5 yrs,True,True
+TS18,plot_time_series,1.000,show my ride share costs from '24 to 26,True,True
+TS19,plot_time_series,0.892,plot spending from june 2023 to dec 2025,True,True
+TS20,plot_time_series,0.653,Plot spending on snacks from oct 2024 to dec 2025,True,True
+TS21,plot_time_series,1.000,Show spending trend for past 4 months exclude rent tho,True,True
+TS22,plot_time_series,0.452,plot spend on cafes for past 2.5 yrs,True,True
+TS23,plot_time_series,0.971,plot spend on cafes for past 2.5 yrs,True,True
+DI01,plot_distribution,0.733,show breakdown of all expenses from 2024 to 2025,True,True
+DI02,plot_distribution,0.625,Show me a breakdown of my food expenses in 2024,True,True
+DI03,plot_distribution,0.628,show breakdown of all expenses from 2024 to 2025,False,True
+DI04,plot_distribution,0.592,show breakdown of all expenses from 2024 to 2025,True,True
+DI05,plot_distribution,0.644,Breakdown of fitness spending for 2025,True,True
+DI06,plot_distribution,0.747,show breakdown of all expenses from 2024 to 2025,True,True
+DI07,plot_distribution,0.764,show breakdown of all expenses from 2024 to 2025,True,True
+DI08,plot_distribution,0.753,Breakdown of fitness spending for 2025,True,True
+DI09,plot_distribution,0.574,Breakdown of transportation spending from 2022 to 2024,True,True
+DI10,plot_distribution,0.691,Show me my spending breakdown for groceries for past 6 months,True,True
+DI11,plot_distribution,0.579,Show me my spending breakdown excluding rent for the past 6 months,False,True
+DI12,plot_distribution,0.692,Pie chart of all expenses from Nov 2024 to Feb 2025,True,True
+DI13,plot_distribution,0.689,Show me my spending breakdown for groceries for past 6 months,True,True
+DI14,plot_distribution,0.511,Show me a breakdown of my food expenses in 2024,False,False
+DI15,plot_distribution,1.000,what does my electronics and furniture spending look like for jan 2025?,True,True
+DI16,plot_distribution,0.769,show breakdown of all expenses from 2024 to 2025,True,True
+DI17,plot_distribution,0.672,Show me my spending breakdown excluding rent for the past 6 months,True,True
+DI18,plot_distribution,0.632,show breakdown of all expenses from 2024 to 2025,False,True
+DI19,plot_distribution,0.779,show breakdown of all expenses from 2024 to 2025,False,True
+DI20,plot_distribution,0.747,How did I split my money between categories in 2023?,True,True
+DI21,plot_distribution,1.000,show breakdown of all expenses for mar 2026 (exclude rent tho),True,True
+CP01,plot_comparison_bars,0.925,Compare spend on electricity 2024 vs 2025,True,True
+CP02,plot_comparison_bars,0.634,Compare overall expenses from jan 2025 vs jan 2026,True,True
+CP03,plot_comparison_bars,0.649,Compare food spending in 2024 vs 2025,True,True
+CP04,plot_comparison_bars,0.847,Compare gym spending Nov 2024 vs Nov 2025,True,True
+CP05,plot_comparison_bars,0.949,Compare spend on electricity 2024 vs 2025,True,True
+CP06,plot_comparison_bars,0.715,compare total spend on new years eve 2024 vs for same day on 2025,True,True
+CP07,plot_comparison_bars,0.846,Compare spend on electricity 2024 vs 2025,True,True
+CP08,plot_comparison_bars,0.674,Compare food spending in 2024 vs 2025,True,True
+CP09,plot_comparison_bars,0.660,Compare spend on electricity 2024 vs 2025,True,True
+CP10,plot_comparison_bars,0.790,Compare spend on electricity 2024 vs 2025,True,True
+CP11,plot_comparison_bars,0.602,Compare overall expenses from jan 2025 vs jan 2026,True,True
+CP12,plot_comparison_bars,0.542,How does my spend on snacks compare between jan 2024 and jan 2026?,True,True
+CP13,plot_comparison_bars,0.528,Compare overall expenses from jan 2025 vs jan 2026,True,True
+CP14,plot_comparison_bars,0.853,Compare spend on electricity 2024 vs 2025,True,True
+CP15,plot_comparison_bars,0.676,Compare total spending 2022 vs 2023,True,True
+CP16,plot_comparison_bars,0.725,Compare spend on electricity 2024 vs 2025,True,True
+CP17,plot_comparison_bars,1.000,compare education expenses '24 vs '25,True,True
+CP18,plot_comparison_bars,0.757,Compare overall expenses from jan 2025 vs jan 2026,True,True
+CP19,plot_comparison_bars,0.587,Compare gym spending Nov 2024 vs Nov 2025,True,True
+CP20,plot_comparison_bars,1.000,compare household expenses for april '24 vs apr 2025,True,True
+CP21,plot_comparison_bars,0.760,Compare my spending in 2024 vs 2025 excluding rent,True,True
+CP22,plot_comparison_bars,1.000,compare total spend on new years eve 2024 vs for same day on 2025,True,True
+CP23,plot_comparison_bars,1.000,Compare dining between Jan-Jun 2024 and Jan-Jun 2025,True,True
+CP24,plot_comparison_bars,0.667,Contrast overall spend from Nov 2024 to Feb 2025 vs Nov 2025 to Feb 2026,False,True
+CP25,plot_comparison_bars,0.683,Contrast overall spend from Nov 2024 to Feb 2025 vs Nov 2025 to Feb 2026,False,True
+CP26,plot_comparison_bars,1.000,compare electricity from jan-mar '24 vs jan-mar '25,True,True
+CP27,plot_comparison_bars,0.645,Compare dining Jan 2024 vs Jan 2025,True,True
+CP28,plot_comparison_bars,0.571,Compare overall expenses from jan 2025 vs jan 2026,False,True
+CT01,calculate_total,0.833,Total spent on combini food for 2025?,True,True
+CT02,calculate_total,0.667,Total spent on combini food for 2025?,True,True
+CT03,calculate_total,0.602,whats the total spend on donations from '23 to 2026?,True,True
+CT04,calculate_total,0.720,whats the total spend on donations from '23 to 2026?,True,True
+CT05,calculate_total,0.674,whats the total spend on donations from '23 to 2026?,True,True
+CT06,calculate_total,0.610,Total spent on 15 Jan 2024?,True,True
+CT07,calculate_total,0.617,Total spent on combini food for 2025?,True,True
+CT08,calculate_total,0.659,How much did I spend on food in past month?,True,True
+CT09,calculate_total,0.565,How much did I spend on food in past month?,True,True
+CT10,calculate_total,0.658,What is my total spending in 2025?,True,True
+CT11,calculate_total,0.930,How much did I spend on groceries in Dec 2024?,True,True
+CT12,calculate_total,0.690,Total spending from Oct 2024 to March 2025,True,True
+CT13,calculate_total,0.681,How much did I spend on food in past month?,True,True
+CT14,calculate_total,0.646,Total spent on 15 Jan 2024?,True,True
+CT15,calculate_total,1.000,whats the total spend on donations from '23 to 2026?,True,True
+CT16,calculate_total,0.703,How much did I spend on groceries in Dec 2024?,True,True
+CT17,calculate_total,0.584,How much spent on rent in the last 6 months?,True,True
+CT18,calculate_total,0.596,Total spending from Oct 2024 to March 2025,False,True
+CT19,calculate_total,0.657,What is my total spending in 2025?,True,True
+CT20,calculate_total,0.703,whats the total spend on donations from '23 to 2026?,True,True
+CT21,calculate_total,0.932,How much did I spend in the last 6 months without rent?,True,True
+CT22,calculate_total,1.000,"Excluding rent, what was my total spend in 2025?",True,True
+TP01,get_top_expenses,0.667,Top 5 expenses for 26 june 2024?,True,True
+TP02,get_top_expenses,0.706,"tell me the top 15 expenses for 2025, ignore rent plz",True,True
+TP03,get_top_expenses,0.702,"tell me the top 15 expenses for 2025, ignore rent plz",True,True
+TP04,get_top_expenses,0.617,Top 10 food expenses in june 2025?,True,True
+TP05,get_top_expenses,0.776,Show my top 10 expenses from 2023 to 2025,True,True
+TP06,get_top_expenses,0.710,"What were the biggest expenses over the last 3 months, without rent?",True,True
+TP07,get_top_expenses,0.779,"tell me the top 15 expenses for 2025, ignore rent plz",False,True
+TP08,get_top_expenses,0.800,Top 7 futsal expenses for 2025?,True,True
+TP09,get_top_expenses,0.559,"tell me the top 15 expenses for 2025, ignore rent plz",True,True
+TP10,get_top_expenses,0.653,"Top 5 expenses last month, exclude rent",True,True
+TP11,get_top_expenses,0.750,Top 5 food expenses in 2024?,True,True
+TP12,get_top_expenses,0.635,What were my biggest expenses in Dec 2024?,True,True
+TP13,get_top_expenses,1.000,show me top 10 expenses from jan 2025 to june '25,True,True
+TP14,get_top_expenses,0.693,Top 10 expenses of past month?,False,True
+TP15,get_top_expenses,0.698,Top 5 expenses for 26 june 2024?,True,True
+TP16,get_top_expenses,0.857,"Top 5 expenses last month, exclude rent",True,True
+TP17,get_top_expenses,0.761,Show my top 10 expenses from 2023 to 2025,False,True
+TP18,get_top_expenses,0.477,Show my top 10 expenses from 2023 to 2025,True,True
+TP19,get_top_expenses,1.000,"tell me the top 15 expenses for 2025, ignore rent plz",True,True
+TP20,get_top_expenses,0.532,"What were the biggest expenses over the last 3 months, without rent?",False,True
+TP21,get_top_expenses,0.645,"tell me the top 15 expenses for 2025, ignore rent plz",False,True

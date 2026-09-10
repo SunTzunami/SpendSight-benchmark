@@ -1,0 +1,116 @@
+TC_ID,Group,n_params,d_date,d_cat,d_rel,d_multi,d_abbr,d_hol,C,Level,Category
+TS01,time_series,2,2,0,1,0,0,0,5,L2,Food
+TS02,time_series,5,3,0,0,0,0,0,8,L3,cafe
+TS03,time_series,5,3,0,0,0,0,0,8,L3,snacks
+TS04,time_series,5,3,1,0,0,0,0,9,L3,dining
+TS05,time_series,2,2,0,1,0,0,0,5,L2,Fitness
+TS06,time_series,2,2,0,1,0,0,0,5,L2,supplements
+TS07,time_series,5,3,1,0,0,0,0,9,L3,combini meal
+TS08,time_series,5,3,0,0,0,1,0,9,L3,nomikai
+TS09,time_series,2,2,1,1,0,0,0,6,L2,souvenirs/gifts/treats
+TS10,time_series,2,2,1,1,0,0,0,6,L2,gas bill
+TS11,time_series,2,1,1,0,0,0,0,4,L1,grocery
+TS12,time_series,5,3,1,0,0,0,0,9,L3,shinkansen
+TS13,time_series,2,2,0,1,0,0,0,5,L2,Accommodation
+TS14,time_series,2,1,0,0,0,0,0,3,L1,electronics
+TS15,time_series,5,3,0,0,0,1,0,9,L3,tuition
+TS16,time_series,5,3,0,0,0,0,0,8,L3,Transportation
+TS17,time_series,2,2,1,1,0,0,0,6,L2,medicines
+TS18,time_series,3,3,0,0,0,1,0,7,L2,ride share
+TS19,time_series,4,3,0,0,0,1,0,8,L3,(none)
+TS20,time_series,5,3,1,0,0,0,0,9,L3,basketball game
+TS21,time_series,2,2,0,1,0,0,0,5,L2,(none)
+TS22,time_series,2,2,0,1,0,0,0,5,L2,(none)
+TS23,time_series,2,2,0,0,0,0,0,4,L1,cafe
+DI01,distribution,2,1,0,0,0,0,0,3,L1,Education
+DI02,distribution,2,1,0,0,0,0,0,3,L1,Food
+DI03,distribution,5,3,0,0,0,1,0,9,L3,Education
+DI04,distribution,2,2,1,1,0,0,0,6,L2,Housing and Utilities
+DI05,distribution,2,1,0,0,0,0,0,3,L1,Entertainment
+DI06,distribution,3,4,0,0,0,0,0,7,L2,(none)
+DI07,distribution,2,2,0,0,0,0,0,4,L1,(none)
+DI08,distribution,3,2,0,0,0,0,0,5,L2,Fitness
+DI09,distribution,2,2,0,1,0,0,0,5,L2,Transportation
+DI10,distribution,2,2,0,1,0,0,0,5,L2,Food
+DI11,distribution,2,1,0,0,0,0,0,3,L1,(none)
+DI12,distribution,3,3,2,0,0,0,0,8,L3,Accommodation
+DI13,distribution,2,2,0,1,0,0,0,5,L2,Miscellaneous
+DI14,distribution,1,0,2,0,0,0,0,3,L1,Household and Clothing
+DI15,distribution,3,2,0,0,0,0,0,5,L2,Electronics and Furniture
+DI16,distribution,3,4,0,0,0,0,0,7,L2,(none)
+DI17,distribution,2,2,0,1,0,0,0,5,L2,(none)
+DI18,distribution,5,3,1,0,0,1,0,10,L3,souvenirs/gifts/treats
+DI19,distribution,5,3,0,0,0,0,0,8,L3,Entertainment
+DI20,distribution,1,1,0,0,0,0,0,2,L1,(none)
+DI21,distribution,3,2,0,0,0,0,0,5,L2,(none)
+CP01,comparison,3,3,1,0,1,0,0,8,L3,electricity bill
+CP02,comparison,5,3,1,0,2,0,0,11,L3,grocery
+CP03,comparison,3,3,0,0,1,0,0,7,L2,nomikai
+CP04,comparison,5,3,0,0,2,0,0,10,L3,gym
+CP05,comparison,3,3,1,0,1,0,0,8,L3,electricity bill
+CP06,comparison,7,4,0,0,2,0,0,13,L3,Food
+CP07,comparison,3,3,1,0,1,0,0,8,L3,flight tickets
+CP08,comparison,5,3,0,0,2,0,0,10,L3,snacks
+CP09,comparison,5,3,1,0,2,0,0,11,L3,water & sewage bill
+CP10,comparison,3,3,1,0,1,0,0,8,L3,dining
+CP11,comparison,5,3,0,0,2,0,0,10,L3,grocery
+CP12,comparison,3,3,0,0,1,0,0,7,L2,Accommodation
+CP13,comparison,5,3,0,0,2,0,0,10,L3,Transportation
+CP14,comparison,3,3,1,0,1,0,0,8,L3,internet bill
+CP15,comparison,3,3,1,0,1,0,0,8,L3,phone bill
+CP16,comparison,5,3,0,0,2,0,0,10,L3,clothing
+CP17,comparison,3,3,0,0,1,1,0,8,L3,Education
+CP18,comparison,6,4,0,0,2,0,0,12,L3,(none)
+CP19,comparison,3,3,1,0,1,0,0,8,L3,tokyo metro
+CP20,comparison,5,3,0,0,2,1,0,11,L3,household
+CP21,comparison,3,3,0,0,1,1,0,8,L3,(none)
+CP22,comparison,6,4,0,0,2,0,2,14,L3,(none)
+CP23,comparison,7,3,0,0,2,0,0,12,L3,dining
+CP24,comparison,9,3,1,0,2,0,0,15,L3,grocery
+CP25,comparison,7,3,0,0,2,0,0,12,L3,(none)
+CP26,comparison,7,3,1,0,2,1,0,14,L3,electricity bill
+CP27,comparison,7,3,1,0,2,0,0,13,L3,grocery
+CP28,comparison,9,3,1,0,2,1,0,16,L3,grocery
+CT01,calculate_total,2,1,1,0,0,0,0,4,L1,combini meal
+CT02,calculate_total,2,1,1,0,0,0,0,4,L1,water & sewage bill
+CT03,calculate_total,3,3,1,0,0,0,0,7,L2,arcades & karaoke
+CT04,calculate_total,3,3,1,0,0,0,0,7,L2,souvenirs/gifts/treats
+CT05,calculate_total,3,3,2,0,0,0,0,8,L3,souvenirs/gifts/treats
+CT06,calculate_total,2,1,1,0,0,0,0,4,L1,gas bill
+CT07,calculate_total,3,2,1,0,0,0,0,6,L2,tokyo metro
+CT08,calculate_total,2,2,0,1,0,0,0,5,L2,Food
+CT09,calculate_total,2,2,0,1,0,0,0,5,L2,snacks
+CT10,calculate_total,2,1,1,0,0,0,0,4,L1,combini meal
+CT11,calculate_total,2,1,1,0,0,0,0,4,L1,grocery
+CT12,calculate_total,3,3,0,0,0,0,0,6,L2,bus
+CT13,calculate_total,2,2,0,1,0,0,0,5,L2,car rental
+CT14,calculate_total,2,1,0,0,0,0,0,3,L1,exam fees
+CT15,calculate_total,3,3,0,0,0,1,0,7,L2,donation
+CT16,calculate_total,3,2,0,0,0,0,0,5,L2,taxi
+CT17,calculate_total,2,2,0,1,0,0,0,5,L2,personal care
+CT18,calculate_total,5,3,0,0,0,0,0,8,L3,cable car
+CT19,calculate_total,3,4,0,0,0,0,0,7,L2,(none)
+CT20,calculate_total,2,1,0,0,0,0,0,3,L1,books
+CT21,calculate_total,2,2,0,1,0,0,0,5,L2,(none)
+CT22,calculate_total,2,1,0,0,0,0,0,3,L1,(none)
+TP01,top_expenses,4,4,0,0,0,0,0,8,L3,(none)
+TP02,top_expenses,3,2,0,0,0,1,0,6,L2,(none)
+TP03,top_expenses,2,1,0,0,0,0,0,3,L1,(none)
+TP04,top_expenses,3,1,1,0,0,0,0,5,L2,dining
+TP05,top_expenses,3,3,0,0,0,0,0,6,L2,(none)
+TP06,top_expenses,3,2,0,1,0,0,0,6,L2,(none)
+TP07,top_expenses,4,2,0,0,0,0,0,6,L2,(none)
+TP08,top_expenses,3,1,1,0,0,0,0,5,L2,futsal game
+TP09,top_expenses,3,1,0,0,0,0,0,4,L1,clothing
+TP10,top_expenses,3,2,0,1,0,0,0,6,L2,(none)
+TP11,top_expenses,3,1,0,0,0,0,0,4,L1,Transportation
+TP12,top_expenses,3,1,0,0,0,0,0,4,L1,grocery
+TP13,top_expenses,5,3,0,0,0,1,0,9,L3,(none)
+TP14,top_expenses,3,2,0,1,0,0,0,6,L2,Entertainment
+TP15,top_expenses,4,4,0,0,0,0,0,8,L3,(none)
+TP16,top_expenses,3,2,0,1,0,0,0,6,L2,(none)
+TP17,top_expenses,4,3,0,0,0,0,0,7,L2,Accommodation
+TP18,top_expenses,3,1,0,0,0,0,0,4,L1,Education
+TP19,top_expenses,3,1,0,0,0,0,0,4,L1,(none)
+TP20,top_expenses,3,2,1,1,0,0,0,7,L2,sports event
+TP21,top_expenses,6,3,0,0,0,0,0,9,L3,(none)

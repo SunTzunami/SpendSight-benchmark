@@ -1,0 +1,27 @@
+\begin{table}[h]
+\centering
+\small
+\caption{95\% bootstrap confidence intervals ($n=2000$ resamples over 115 test cases, each averaged across 5 repetitions). Point estimates match Table~\ref{tab:main_results}.}
+\label{tab:bootstrap_cis}
+\begin{tabular}{@{}ll|cc|cc|cc@{}}
+\toprule
+\textbf{Mode} & \textbf{Model} & \textbf{Task Acc} & \textbf{95\% CI} & \textbf{CR} & \textbf{95\% CI} & \textbf{FSP} & \textbf{95\% CI} \\
+\midrule
+Single & EXAONE-4.0-1.2B & 8.9 & [5.6, 12.1] & 0.2 & [0.0, 0.5] & 19.3 & [12.2, 26.3] \\
+Single & Gemma-3-1B-it & 28.4 & [22.8, 34.4] & 1.6 & [0.0, 4.0] & 26.3 & [19.0, 34.8] \\
+Single & LFM2.5-1.2B & 17.3 & [12.6, 22.4] & 3.3 & [0.7, 6.8] & 28.7 & [20.7, 36.9] \\
+Single & MiniCPM5-1B & 61.9 & [56.8, 67.2] & 13.4 & [8.0, 19.5] & 70.6 & [62.4, 78.8] \\
+Single & Qwen3.5-0.8B & 79.7 & [75.7, 83.7] & 40.5 & [32.0, 49.0] & 95.0 & [90.8, 98.4] \\
+Single & Qwen3.5-2B & 91.9 & [89.5, 94.1] & 59.7 & [51.1, 68.2] & 96.5 & [93.2, 99.1] \\
+Single & G9v3-3B$^\dagger$ & 90.6 & [86.6, 94.1] & 71.7 & [63.0, 79.7] & 95.7 & [91.3, 99.1] \\
+\midrule
+Dual & EXAONE-4.0-1.2B & 37.8 & [34.8, 40.7] & 2.8 & [0.7, 5.2] & 90.6 & [85.0, 95.7] \\
+Dual & Gemma-3-1B-it & 51.6 & [45.4, 57.7] & 16.5 & [10.4, 23.5] & 55.1 & [46.3, 64.2] \\
+Dual & LFM2.5-1.2B & 51.9 & [46.7, 57.2] & 16.2 & [10.3, 22.6] & 68.5 & [60.9, 76.2] \\
+Dual & MiniCPM5-1B & 74.1 & [69.2, 79.2] & 43.8 & [35.3, 52.7] & 84.9 & [78.6, 90.3] \\
+Dual & Qwen3.5-0.8B & 88.8 & [85.4, 92.1] & 60.9 & [52.2, 69.4] & 94.3 & [89.7, 97.9] \\
+Dual & Qwen3.5-2B & 90.3 & [86.0, 94.3] & 76.9 & [69.7, 84.0] & 92.0 & [87.0, 96.5] \\
+Dual & G9v3-3B$^\dagger$ & 88.2 & [83.8, 92.3] & 68.3 & [59.8, 76.5] & 92.2 & [87.0, 96.5] \\
+\bottomrule
+\end{tabular}
+\end{table}

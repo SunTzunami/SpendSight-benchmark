@@ -1,0 +1,21 @@
+\begin{table}[h]
+\centering
+\small
+\caption{Complexity feature frequencies across 115 test cases. Each row shows how many test cases have a nonzero value for that complexity feature.}
+\label{tab:complexity_freq}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Feature} & \textbf{Count} & \textbf{\%} \\
+\midrule
+$d_{\text{date}} > 0$ (date specification) & 114 & 99.1 \\
+$d_{\text{cat}} > 0$ (category mapping) & 37 & 32.2 \\
+$d_{\text{rel}} > 0$ (relative time) & 24 & 20.9 \\
+$d_{\text{multi}} > 0$ (compound params) & 28 & 24.3 \\
+$d_{\text{abbr}} > 0$ (abbreviated dates) & 14 & 12.2 \\
+$d_{\text{hol}} > 0$ (holiday knowledge) & 1 & 0.9 \\
+\midrule
+Queries with colloquialisms & 22 & 19.1 \\
+Queries with misspellings & 2 & 1.7 \\
+\bottomrule
+\end{tabular}
+\end{table}

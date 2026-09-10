@@ -1,0 +1,36 @@
+Model,Group,Task_Acc,CR
+EXAONE-4.0-1.2B,Time Series,0.9,0.9
+EXAONE-4.0-1.2B,Distribution,0.0,0.0
+EXAONE-4.0-1.2B,Comparison,0.0,0.0
+EXAONE-4.0-1.2B,Calc. Total,45.4,0.0
+EXAONE-4.0-1.2B,Top Expenses,0.0,0.0
+Gemma-3-1B-it,Time Series,8.6,0.0
+Gemma-3-1B-it,Distribution,15.6,0.0
+Gemma-3-1B-it,Comparison,32.4,0.0
+Gemma-3-1B-it,Calc. Total,53.7,8.2
+Gemma-3-1B-it,Top Expenses,30.8,0.0
+LFM2.5-1.2B,Time Series,5.0,4.3
+LFM2.5-1.2B,Distribution,7.3,0.0
+LFM2.5-1.2B,Comparison,9.2,0.0
+LFM2.5-1.2B,Calc. Total,51.6,12.7
+LFM2.5-1.2B,Top Expenses,15.8,0.0
+MiniCPM5-1B,Time Series,53.5,5.2
+MiniCPM5-1B,Distribution,74.1,14.3
+MiniCPM5-1B,Comparison,46.7,23.6
+MiniCPM5-1B,Calc. Total,65.8,1.8
+MiniCPM5-1B,Top Expenses,75.0,20.0
+Qwen3.5-0.8B,Time Series,68.0,35.7
+Qwen3.5-0.8B,Distribution,79.1,39.0
+Qwen3.5-0.8B,Comparison,88.2,55.7
+Qwen3.5-0.8B,Calc. Total,83.6,53.6
+Qwen3.5-0.8B,Top Expenses,77.7,13.3
+Qwen3.5-2B,Time Series,89.7,66.1
+Qwen3.5-2B,Distribution,89.6,47.6
+Qwen3.5-2B,Comparison,91.0,48.6
+Qwen3.5-2B,Calc. Total,95.5,74.5
+Qwen3.5-2B,Top Expenses,94.3,63.8
+G9v3-3B,Time Series,73.9,56.5
+G9v3-3B,Distribution,90.0,54.3
+G9v3-3B,Comparison,95.0,74.3
+G9v3-3B,Calc. Total,97.8,87.3
+G9v3-3B,Top Expenses,96.1,85.7
